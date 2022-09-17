@@ -1,1 +1,1 @@
-# operatorler
+**C# OPERATOR TANIMLAMALARI**
